@@ -6,14 +6,14 @@ Shell script to install a [YEPCOIN Masternode](https://www.yepcoin.io/) on a Lin
 ```
 In case of ubuntu18.0.4 :
 
-wget https://raw.githubusercontent.com/YEPCOIN/MasternodeSetup/master/install-MN-18.0.4.sh
+wget https://raw.githubusercontent.com/YEPCOIN/MasternodeSetup/main/install-MN-18.0.4.sh
 bash install-MN-18.0.4.sh
 
 ***********************************
 
 In case of ubuntu16.0.4 :
 
-wget https://raw.githubusercontent.com/YEPCOIN/MasternodeSetup/master/install-MN-16.0.4.sh
+wget https://raw.githubusercontent.com/YEPCOIN/MasternodeSetup/main/install-MN-16.0.4.sh
 bash install-MN-16.0.4.sh
 ```
 ***
